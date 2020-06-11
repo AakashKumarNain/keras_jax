@@ -18,5 +18,12 @@ production in no time.
 
 ## What is keras_jax?
 
-`keras_jax` aims to replicate Keras API for JAX. 
+`keras_jax` aims to replicate the Keras API for JAX. 
+
+
+
+
+
+
+**Note:** This is not a Google product. I am working on it in my free time apart from my day job. Please expect **slow** to **very slow** progress. 
 
