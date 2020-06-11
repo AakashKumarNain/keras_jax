@@ -13,7 +13,7 @@ multiple accelerators using `jax.pmap`).
 ## What is Keras?
 
 [Keras](https://keras.io/) is the official high-level API for [TensorFlow](https://www.tensorflow.org/guide/keras).
-Keras is very **user-friendly**, **intuitive** and **easy**. Keras is quite extensible and you can go from research to 
+Keras is very **user-friendly**, **intuitive**, and **easy**. Keras is quite extensible and you can go from research to 
 production in no time. 
 
 ## What is keras_jax?
