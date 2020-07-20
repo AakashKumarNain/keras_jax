@@ -8,7 +8,7 @@ native Python and NumPy functions.
 * With `jax.grad`, you can efficiently compute  any-order gradients w.r.t any variables
 * JAX supports JIT compilation (`jax.jit`). It uses XLA to compile Python functions.
 * JAX supports **vectorization** (`jax.vmap`) which can be used to batch code. You can also **parallelize** code across
-multiple accelerators using `jax.pmap`).
+multiple accelerators using `jax.pmap`.
 
 ## What is Keras?
 
@@ -18,7 +18,14 @@ production in no time.
 
 ## What is keras_jax?
 
-`keras_jax` aims to replicate the Keras API for JAX.  
+`keras_jax` aims to replicate the Keras API for JAX. The main idea is to keep things similar to the current `Keras` API
+as much as possible. The good thing is that we are writing it from scratch for JAX, we can make a few breaking changes.
+Because the codebase is completely afresh, there is a much more room for flexibility. 
+
+
+### TODO
+The idea is to start simple and then scale it as we go further. If you look at the keras codebase, it is literally huge. We
+just want the essentail part of it to repliacte it for JAX. 
 
 
 
