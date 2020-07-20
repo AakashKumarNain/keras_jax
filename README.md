@@ -25,12 +25,19 @@ Because the codebase is completely afresh, there is a much more room for flexibi
 
 ### TODO
 The idea is to start simple and then scale it as we go further. If you look at the keras codebase, it is literally huge. We
-just want the essentail part of it to repliacte it for JAX. 
+just want the essentail part of it to repliacte it for JAX. To start with, here is a simple checklist:
+
+- [ ] Replicate a simple `Layer`
+- [ ] Replicate the `Functional` API
+- [ ] Define an `engine`
+- [ ] Add an end-to-end LR example
 
 
 
 
 
 
-**Note:** This is not a Google product. I am working on it in my free time apart from my day job. Expect **slow** to **very slow** progress. 
+
+
+<br>**Note:** This is not a Google product. I am working on it in my free time apart from my day job. Expect **slow** to **very slow** progress. 
 
