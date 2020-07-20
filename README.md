@@ -20,12 +20,12 @@ production in no time.
 
 `keras_jax` aims to replicate the Keras API for JAX. The main idea is to keep things similar to the current `Keras` API
 as much as possible. The good thing is that we are writing it from scratch for JAX, we can make a few breaking changes.
-Because the codebase is completely afresh, there is a much more room for flexibility. 
+Because the codebase is completely afresh, there is much more room for flexibility. 
 
 
 ### TODO
-The idea is to start simple and then scale it as we go further. If you look at the keras codebase, it is literally huge. We
-just want the essentail part of it to repliacte it for JAX. To start with, here is a simple checklist:
+The idea is to start simple and then scale it as we go further. If you look at the keras codebase, it is huge. 
+We just want the essential part of it to replicate it for JAX. To start with, here is a simple checklist:
 
 - [ ] Replicate a simple `Layer`
 - [ ] Replicate the `Functional` API
@@ -34,12 +34,11 @@ just want the essentail part of it to repliacte it for JAX. To start with, here 
 
 
 ### Contributing
-Keras Jax is meant to be a community-led open source project. The project and the progress depends on public contributions, bug fixes, and documentation.
-Do you want to contribute? Please go through the `TODO` checklist and make a contribution in any of the stated tasks.
+Keras Jax is meant to be a community-led open source project. The project and its progress depend on public contributions, bug fixes, and documentation. 
+Do you want to contribute? Please go through the TODO checklist and contribute to any of the stated tasks.
 
-Please see [contribution guidelines](CONTRIBUTING.md) to get started. If you aren't quite sure about a functionality, feel free to open an issue first.
-
-
+Please see the [contribution guidelines](CONTRIBUTING.md) to get started. If you aren't quite sure about a particular functionality,
+feel free to open an issue first.
 
 
 
