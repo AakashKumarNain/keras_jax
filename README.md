@@ -33,11 +33,17 @@ just want the essentail part of it to repliacte it for JAX. To start with, here 
 - [ ] Add an end-to-end LR example
 
 
+### Contributing
+Keras Jax is meant to be a community-led open source project. The project and the progress depends on public contributions, bug fixes, and documentation.
+Do you want to contribute? Please go through the `TODO` checklist and make a contribution in any of the stated tasks.
+
+Please see [contribution guidelines](CONTRIBUTING.md) to get started. If you aren't quite sure about a functionality, feel free to open an issue first.
 
 
 
 
 
 
-<br>**Note:** This is not a Google product. I am working on it in my free time apart from my day job. Expect **slow** to **very slow** progress. 
+
+<br>**Note:** I am working on this project in my free time apart from my day job. Expect **slow** to **very slow** progress. 
 
